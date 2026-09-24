@@ -148,7 +148,7 @@
     "typescript": "^3.7.2",
     "uglifyjs-webpack-plugin": "^1.2.7",
     "url-loader": "^1.0.1",
-    "uuid": "^3.3.2",
+    "uuid": "^11.0.0",
     "vue": "2.5.17",
     "vue-class-component": "6.2.0",
     "vue-html-loader": "^1.2.4",
