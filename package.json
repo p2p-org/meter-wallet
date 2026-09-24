@@ -74,7 +74,7 @@
     "electron-context-menu": "^0.10.0",
     "electron-log": "^4.1.1",
     "electron-unhandled": "^2.1.0",
-    "electron-updater": "^4.2.2",
+    "electron-updater": "^6.0.0",
     "keythereum": "^1.0.4",
     "moment": "^2.24.0"
   },
